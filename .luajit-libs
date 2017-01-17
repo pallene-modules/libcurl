@@ -1,3 +1,4 @@
-curl
-ssl
 crypto
+ssl
+z
+curl
